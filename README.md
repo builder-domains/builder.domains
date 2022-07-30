@@ -63,6 +63,6 @@
 ## [fully.app](https://fully.app)
 ## [ations.app](https://ations.app)
 ## [ious.app](https://ious.app)
-## [izes.app](https://izes.app
+## [izes.app](https://izes.app)
 ## [tions.app](https://tions.app)
 
