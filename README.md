@@ -24,7 +24,7 @@
 <!-- ## [hq.uy](https://hq.uy) -->
 ## [io.mw](https://io.mw)
 ## [sh.sb](https://sh.sb)
-## [pp.sd](https://pp.sd)
+<!-- ## [pp.sd](https://pp.sd) -->
 
 ## [xyz.hm](https://xyz.hm)
 ## [dev.sr](https://dev.sr)
