@@ -11,7 +11,7 @@
 ## [site.as](https://site.as)
 ## [page.as](https://page.as)
 ## [wiki.as](https://wiki.as)
-## [blog.as](https://blog.as)
+## [blogs.as](https://blogs.as)
 ## [sale.as](https://sale.as)
 ## [store.as](https://store.as)
 <!-- ## [startups.as](https://startups.as) -->
