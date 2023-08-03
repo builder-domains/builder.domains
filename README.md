@@ -31,6 +31,7 @@
 <!-- ## [dev.mw](https://dev.mw)
 ## [mgmt.by](https://mgmt.by)
 ## [dev.td](https://dev.td) -->
+## [app.cfd](https://app.cfd)
 ## [link.ug](https://link.ug)
 ## [studio.sc](https://studio.sc)
 ## [management.st](https://management.st)
