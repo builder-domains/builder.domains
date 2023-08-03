@@ -4,7 +4,7 @@
 ## [apis.dev](https://apis.dev)
 ## [saas.dev](https://saas.dev)
 ## [sdk.dev](https://sdk.dev)
-## [service.dev](https://service.dev) -->
+## [service.dev](https://service.dev)
 
 ## [apps.as](https://apps.as)
 ## [apis.as](https://apis.as)
@@ -14,11 +14,11 @@
 ## [blogs.as](https://blogs.as)
 ## [sale.as](https://sale.as)
 ## [store.as](https://store.as)
-<!-- ## [startups.as](https://startups.as) -->
+ ## [startups.as](https://startups.as)
 
 ## [api.page](https://api.page)
 ## [management.studio](https://management.studio)
-## [application.studio](https://application.studio)
+## [application.studio](https://application.studio)  -->
 
 ## [hq.sb](https://hq.sb)
 <!-- ## [hq.uy](https://hq.uy) -->
@@ -29,10 +29,10 @@
 ## [xyz.hm](https://xyz.hm)
 ## [dev.sr](https://dev.sr)
 <!-- ## [dev.mw](https://dev.mw)
-## [dev.td](https://dev.td)
+## [mgmt.by](https://mgmt.by)
+## [dev.td](https://dev.td) -->
 ## [link.ug](https://link.ug)
 ## [studio.sc](https://studio.sc)
-## [mgmt.by](https://mgmt.by)
 ## [management.st](https://management.st)
- -->
+
 
